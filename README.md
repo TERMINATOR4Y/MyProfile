@@ -29,3 +29,6 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 - Instagram Page - https://www.instagram.com/mkartplace11/
 - Twitter Page - https://twitter.com/MKARTPLACE11?s=09
 - Snake game demo - https://youtu.be/aUxBqCNBqW0
+
+## Snake game screenshot
+![gamescreenshot](https://user-images.githubusercontent.com/123818195/234948849-8c47c202-5ab2-43e6-8e08-07e8d5b0963d.png)
