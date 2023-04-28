@@ -32,3 +32,6 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 ## Snake game screenshot
 ![gamescreenshot](https://user-images.githubusercontent.com/123818195/234948849-8c47c202-5ab2-43e6-8e08-07e8d5b0963d.png)
+
+## CS50x CERTIFICATE
+![CS50x certificate](https://user-images.githubusercontent.com/123818195/235175490-1b9a832f-20ee-485e-9429-526274c8c34f.png)
