@@ -25,6 +25,7 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 ## Links
 - My youtube channel - https://www.youtube.com/c/MKARTPLACE
+- LinkedIn profile - https://www.linkedin.com/in/manish-kumar-b93448213
 - Facebook Profile - https://www.facebook.com/profile.php?id=100025170347698
 - Instagram Page - https://www.instagram.com/mkartplace11/
 - Twitter Page - https://twitter.com/MKARTPLACE11?s=09
