@@ -1,5 +1,6 @@
 
-# My Profile
+# Hi, I'm Manish Kumar! 👋
+
 My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 ## Education
