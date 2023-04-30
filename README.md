@@ -24,7 +24,7 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 <p align="left">
 <a href="https://linkedin.com/in/manish-kumar-b93448213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025170347698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish kumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@MKARTPLACE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mk art place" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MKARTPLACE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mk art place" height="30" width="40" /></a>
 <a href="https://twitter.com/mkartplace11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkartplace11" height="30" width="40" /></a>
 <a href="https://instagram.com/mkartplace11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkartplace11" height="30" width="40" /></a>
 </p>
