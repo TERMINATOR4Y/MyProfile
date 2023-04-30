@@ -22,7 +22,7 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 <h2 align="left">Connect with me :</h2>
 <p align="left">
-<a href="https://linkedin.com/in/manish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar" height="30" width="40" /></a>
 <a href="https://fb.com/manish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish kumar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mk art place" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mk art place" height="30" width="40" /></a>
 <a href="https://twitter.com/mkartplace11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkartplace11" height="30" width="40" /></a>
