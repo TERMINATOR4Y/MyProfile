@@ -11,6 +11,9 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 ## Hobbies
 - Art and Craft
+- origami
+- Kirigami
+- Paper engineering
 - Drawing
 - Painting
 - Indoor games
