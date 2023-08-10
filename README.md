@@ -18,7 +18,7 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 
 ## Programming Languages
 - HTML, CSS, JavaScript
-- Java, C, Python
+- Java, C, Python, C++
 
 <h2 align="left">Connect with me :</h2>
 <p align="left">
@@ -33,7 +33,8 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## IT feild project
-- SNAKE GAME
+- SNAKE GAMME
+- BRICK BREAKER GAME
 - UPCOMING.....
 
 ## Links
@@ -43,13 +44,23 @@ My name is manish kumar. I am currently doing BTECH in Information Technology.
 - Instagram Page - https://www.instagram.com/mkartplace11/
 - Twitter Page - https://twitter.com/MKARTPLACE11?s=09
 - Snake game demo - https://youtu.be/aUxBqCNBqW0
+- Brick breaker game demo - https://youtu.be/9mHGAw33BOI
 
 ## Snake game screenshot
 
 ![gamescreenshot](https://user-images.githubusercontent.com/123818195/234948849-8c47c202-5ab2-43e6-8e08-07e8d5b0963d.png)
 
+## Brick breaker game screenshot
+
+![brickgamescreenshot](https://github.com/TERMINATOR4Y/MyProfile/assets/123818195/66d22e7b-04e7-4c26-8394-269968fc2ede)
+
 ## CS50x CERTIFICATE
 
 ![CS50x certificate](https://user-images.githubusercontent.com/123818195/235175490-1b9a832f-20ee-485e-9429-526274c8c34f.png)
+
+## CS50P CERTIFICATE
+
+
+![CS50P](https://github.com/TERMINATOR4Y/MyProfile/assets/123818195/9a62df81-e0dc-49e1-91e4-cc0555053547)
 
 
